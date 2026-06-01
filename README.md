@@ -5,7 +5,7 @@
 ![Azure Synapse](https://img.shields.io/badge/Azure-Synapse%20Analytics-blue?logo=microsoft-azure\&style=flat-square)
 ![Databricks](https://img.shields.io/badge/Databricks-PySpark-red?logo=databricks\&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python\&style=flat-square)
-![Architecture](Architecture.png)
+
 
 ## Overview
 
